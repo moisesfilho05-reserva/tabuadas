@@ -3,8 +3,8 @@ function exibirTextoNaTela(tag, texto) {
     campo.innerHTML = texto;
 };
 
-exibirTextoNaTela('h1', 'SITE DE TREINO');
-exibirTextoNaTela('p', 'Já treinou baiano?');
+exibirTextoNaTela('h1', 'SITE DE TABUADAS');
+exibirTextoNaTela('p', 'Já treinou sua tabuada?');
 
 // seu código inicia aqui em baixo
 
